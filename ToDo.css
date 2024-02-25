@@ -11,6 +11,7 @@ body{
    row-gap: 10px;
    margin-top: 10px;
    align-items: center;
+    justify-content: center;
 }
 #add{
     border-radius: 10px;
